@@ -1,0 +1,6 @@
+a=open("www.txt","+r")
+b=str(input())
+a.write(b)
+print(a.read())
+a.close()
+#print(c)

@@ -1,0 +1,9 @@
+a=10
+b=44.8
+str="rathan"
+print(str)
+c=a+b
+print(c)
+print("a",type(a))
+print("b",type(b))
+print("str",type(str))

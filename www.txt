@@ -1,0 +1,1 @@
+& C:/Users/ratha/AppData/Local/Programs/Python/Python310/python.exe "c:/Users/ratha/OneDrive/Desktop/RATHAN R NAYAK/python/begining python/u2.py"
