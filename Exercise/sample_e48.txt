@@ -1,0 +1,3 @@
+The word 'lorem', for example, isn't a real Latin word,
+it's a shortened VER of the word 'dolorem', meaning pain.
+This makes the current dummy text impossible to translate into English.
